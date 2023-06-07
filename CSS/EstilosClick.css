@@ -1,0 +1,42 @@
+
+/* CSS Document */
+
+#cssonclickswitch {
+position:relative;
+width: 150px;
+margin:20px auto 100px;
+}
+#cssonclickswitch li {
+width:50px;
+}
+#cssonclickswitch a {
+display: block;
+width:150px;
+color: #000;
+text-decoration:none;
+text-align:center;
+}
+#cssonclickswitch a img {
+border:0;
+}
+#cssonclickswitch a:hover,
+#cssonclickswitch a:focus:hover {
+color: #cff;
+background:#dfe2e3;
+}
+#cssonclickswitch a:active,
+#cssonclickswitch a:focus {
+color:#fff;
+background-color:red;
+}
+#cssonclickswitch a span {display: none;}
+#cssonclickswitch a:active span,
+#cssonclickswitch a:focus span {
+display: block;
+position: absolute;
+top: 0;
+left: 170px;
+width: 50px;
+color:red;
+background:#fff;
+}

@@ -1,0 +1,1 @@
+Driver={MySQL ODBC 3.51 Driver};Server=127.0.0.1;Database=db_sicad3;User=root;Password=;Option=3;

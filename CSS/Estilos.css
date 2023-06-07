@@ -1,0 +1,203 @@
+
+/* CSS Document */
+
+.TextoAlerta {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#3e3e3d;
+	font-size:11px;
+	line-height:16px;
+	font-weight:normal;
+	text-align:center;
+	
+}
+
+.TextoNormalMin {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#900;
+	font-size:18px;
+	line-height:16px;
+	font-weight:lighter;
+	
+}
+
+.TextoHeaderSMAE {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#625f5f;
+	font-size:18px;
+	line-height:16px;
+	font-weight:lighter;
+	
+}
+
+.TextoNormal {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#333;
+	font-size:12px;
+	line-height:16px;
+	
+	
+}
+
+.TextoNormalPrimera {
+	text-transform:capitalize;
+}
+
+.TextoNormalRojo {
+	font-family:"Tahoma", Arial, Helvetica, sans-serif;
+	color:#c37443;
+	font-size:16px;
+	line-height:16px;
+	
+	
+}
+.TextoNormalVerde {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#030;
+	font-size:12px;
+	line-height:16px;
+	font-weight:bold;
+	
+}
+
+.TextoSegoeUI {
+	font-family:"Segoe UI";
+	font-size:12px;
+	color:#fff;
+}
+
+.TT1 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:18px;
+	line-height:16px;
+	font-weight:bold;
+	
+}
+.TT2 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:12px;
+	line-height:16px;
+	font-weight:bold;
+	
+}
+
+.CBarras { 
+	FONT-SIZE: 11px; 
+	COLOR: #333; 
+	FONT-FAMILY: "Código de Barras 3/9"; 
+	TEXT-DECORATION: none; 
+	font-weight:bold;
+}
+
+.TextoBlanco {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#fff;
+	font-size:11px;
+	line-height:16px;
+	
+	
+}
+
+.TextoPiePagina {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#333;
+	font-size:10px;
+	line-height:16px;
+	font-weight:bold;
+	
+}
+
+.TextoMin {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#333;
+	font-size:8px;
+	line-height:16px;
+	font-weight:lighter;
+	
+}
+
+
+.TextoDependencia {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	font-size:16px;
+	line-height:16px;
+	font-weight:normal;
+	text-align:right;
+	
+}
+
+.TextoCurri {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#38860f;
+	font-size:12px;
+	line-height:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+}
+
+.TextoExterno {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#38860f;
+	font-size:12px;
+	line-height:15px;
+	
+
+}
+.TextoCurri2 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#333;
+	font-size:10x;
+	line-height:10px;
+	font-weight:normal;
+	text-transform:uppercase;
+	
+}
+
+.parrafo_cumple{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000000;
+	text-align: left;
+	padding-left: 30px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-image: url(../Imagenes/Vineta.gif);
+	background-repeat: no-repeat;
+	background-position: 10px 7px;
+	padding-right: 30px;
+}
+
+.fecha{
+	color:#38860f;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.enlaces:hover { 
+	COLOR: #ffffff; 
+	TEXT-DECORATION: none; 
+}
+
+.enlacesMin { 
+	FONT-SIZE: 10px; 
+	COLOR: #333; 
+	FONT-FAMILY: Arial; 
+	TEXT-DECORATION: none; 
+	font-weight:bold;
+	
+	
+}
+
+.enlacesRojos { 
+	FONT-SIZE: 12px; 
+	COLOR: #900; 
+	FONT-FAMILY: Arial; 
+	TEXT-DECORATION: none; 
+	font-weight:bold;
+	
+	
+}
+
